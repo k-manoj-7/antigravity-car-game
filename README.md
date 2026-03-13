@@ -2,6 +2,9 @@
 
 A simple browser-based Anti-Gravity Car Game built using HTML, CSS, and JavaScript.
 
+🎮 **Play the Game Online:**  
+https://k-manoj-7.github.io/antigravity-car-game/
+
 🎮 How to Play
 
 - Use the Arrow Keys to control the car.
